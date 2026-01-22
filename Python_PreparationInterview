@@ -1,0 +1,25 @@
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐚𝐧𝐝 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬
+↳ Core Syntax and Data Structures (lists, dictionaries, sets, tuples)
+↳ Object-Oriented Programming (classes, inheritance, polymorphism)
+↳ Functional Programming (lambdas, map/reduce/filter)
+↳ Error Handling and Debugging
+↳ File I/O and Context Managers
+
+𝐃𝐚𝐭𝐚 𝐌𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+↳ Pandas for Data Processing and Analysis
+↳ Working with Databases (SQLAlchemy)
+↳ Data Formats (CSV, JSON, XML, Parquet)
+
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠
+↳ Task Automation (os, shutil, subprocess modules)
+↳ Working with APIs (requests, httpx)
+
+𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
+↳ Big Data Processing with PySpark
+↳ Data Pipeline Orchestration (Apache Airflow)
+
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐢𝐧 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 - 𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐎𝐧𝐞!
+↳ Testing (unittest, pytest)
+↳ Packaging and Distribution (setuptools, pip)
+↳ Performance Optimization and Profiling
+↳ Containerization with Docker

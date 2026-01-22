@@ -1,0 +1,35 @@
+Below are the questions discussed 👇
+
+• Can you introduce yourself and explain your current DevOps responsibilities?
+• What does a normal production day look like for you as a DevOps engineer?
+• How do you collaborate with developers to release changes safely?
+
+CI/CD & Automation
+• How do you design a CI/CD pipeline that supports frequent releases without breaking production?
+• What checks do you include before allowing a deployment to production?
+• How do you handle failed deployments in a live environment?
+• What is your rollback strategy if a release causes issues?
+
+Kubernetes & Containers
+• How do you troubleshoot a pod that is stuck in Pending state?
+• What causes frequent pod restarts, and how do you debug them?
+• How do you manage application configuration in Kubernetes?
+• How do you expose applications securely from a Kubernetes cluster?
+
+Linux & System Operations
+• A server suddenly becomes slow — how do you identify the root cause?
+• How do you check disk space issues and prevent outages caused by it?
+• What steps do you follow when a service fails after a reboot?
+
+Cloud & Security
+• How do you restrict access to cloud resources in a shared environment?
+• How do you secure secrets used by applications and pipelines?
+• What practices do you follow to keep cloud environments compliant?
+
+Monitoring & Reliability
+• What metrics and alerts do you consider critical for production systems?
+• How do you differentiate between noise and actionable alerts?
+
+Version Control
+• How do you manage Git branching in a team environment?
+• How do you handle hotfixes directly in production?

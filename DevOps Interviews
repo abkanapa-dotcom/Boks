@@ -1,0 +1,29 @@
+Round 1 – Basics & Fundamentals
+Difference between ALB and NLB?
+Difference between Docker Swarm and Kubernetes?
+What is LDAP?
+Difference between Nginx and Apache?
+What is a Web Server?
+How do you login to an EC2 Linux instance?
+Linux commands to check disk space?
+Commands to delete files / free disk space?
+
+Round 2 – Kubernetes, Ansible & Terraform
+Which deployment strategies are used in Kubernetes?
+What is Ingress?
+Difference between Pod, Deployment, StatefulSet, DaemonSet?
+What are Kubernetes Services and their types?
+What are Kubernetes Volumes?
+What are Ansible Roles and Handlers?
+Difference between Ansible Roles vs Collections?
+How do you store Terraform state files per environment?
+What is the purpose of Terraform modules?
+
+Round 3 – Advanced DevOps & CI/CD
+How do you deploy microservices using Ansible?
+How do you monitor AWS infrastructure using CloudWatch?
+What is Helm and why is it used?
+What are Helm Charts and Templates?
+How to create ConfigMaps using Helm?
+Difference between Load Balancer and Routing?
+Difference between Jenkins Declarative vs Scripted Pipeline?

@@ -1,0 +1,54 @@
+AWS Core & Networking
+
+• AWS services I’ve worked with so far
+• Core components of an Amazon VPC
+• Purpose of VPC and use of public vs private subnets
+• Role of Internet Gateway and NAT Gateway
+
+👉 IAM & Security
+
+• What is IAM and its components
+• Difference between IAM User Group and IAM Role
+• Real-time scenarios where IAM Roles are required
+
+👉 Scaling & Auto Scaling
+
+• Vertical scaling vs Horizontal scaling
+• Types of Auto Scaling policies in AWS
+
+👉 Storage Services
+
+• Types of storage supported in AWS
+• Difference between S3, EBS, and EFS
+• Is Amazon S3 storage limited or unlimited?
+
+👉 Containers & Orchestration
+
+• Container services in AWS
+• Difference between Amazon ECS and Amazon EKS
+• When to choose ECS over EKS
+
+👉 CI/CD & DevOps Tools
+
+• CI/CD pipeline: built from scratch vs existing setup
+• AWS services used for CI/CD
+• Key components of a CI/CD pipeline
+• Configuration files used in CodeBuild and CodePipeline
+• CI/CD tools used apart from AWS
+
+👉 Terraform & Infrastructure as Code
+
+• IaC tools used
+• Benefits of Terraform
+• Managing multiple environments (dev, test, prod)
+• Terraform workspaces
+• Input variables vs local variables
+• Purpose of output values
+• Importing existing AWS infrastructure into Terraform
+
+👉 Monitoring & Automation
+
+• AWS monitoring tools used
+• Monitoring applications and infrastructure
+• Scripting languages used for automation
+• Hands-on experience managing production environments
